@@ -47,6 +47,11 @@ shikhare-vlogger-html-portfolio/
 | 🛕 **Rituals**      | Temples, village ceremonies, local traditions |
 
 ---
+## 🌐 Live Preview
+
+🚀 ![image](https://github.com/user-attachments/assets/c48c6a4e-cfdf-42b8-bbfd-ce18b912e9a7)
+
+---
 
 ## 🔗 Connect with Me
 
