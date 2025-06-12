@@ -49,7 +49,7 @@ shikhare-vlogger-html-portfolio/
 ---
 ## 🌐 Live Preview
 
-🚀 ![image](https://github.com/user-attachments/assets/c48c6a4e-cfdf-42b8-bbfd-ce18b912e9a7)
+![Uploading 2025-06-1119-07-56-ezgif.com-optimize.gif…]()
 
 ---
 
